@@ -1,0 +1,4 @@
+-D tjson=1.4.0
+# @install: lix --silent download "haxelib:/tjson#1.4.0" into tjson/1.4.0/haxelib
+#-cp ${HAXE_LIBCACHE}/tjson/1.4.0/haxelib/
+-cp /Users/ut/Documents/LAB/TJSON/lib/

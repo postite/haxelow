@@ -1,0 +1,15 @@
+{
+     "SomeObject" : [
+         {
+             "_hxcls" : "SomeObject"
+            ,"id" : "8c41a2cc-5118-4c71-b82d-ffaf05ac8ca8"
+            ,"name" : "Name"
+            ,"array" : [
+                 1
+                ,2
+                ,3
+            ]
+            ,"internal" : "internal"
+        }
+    ]
+}

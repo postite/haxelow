@@ -1,0 +1,15 @@
+{
+     "SomeObject" : [
+         {
+             "_hxcls" : "SomeObject"
+            ,"id" : null
+            ,"name" : "Name"
+            ,"array" : [
+                 1
+                ,2
+                ,3
+            ]
+            ,"internal" : "internal"
+        }
+    ]
+}

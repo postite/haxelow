@@ -1,0 +1,13 @@
+-lib buddy
+-lib tjson
+-cp src 
+-dce no
+-cp tests
+-debug
+-D php7
+#-D TJ_noEncode
+#--no-traces
+-main Main
+-php www
+#-cmd cd bin
+#-cmd neko haxelow.n
