@@ -7,5 +7,5 @@
     "contributors": ["ciscoheat"],
     "version": "0.7.1",
     "tags": ["db", "json"],
-    "dependencies": { "tjson": "git@github.com:postite/TJSON.git php7compat" }
+    "dependencies": { "tjson": "git:https://github.com:postite/TJSON.git php7compat" }
 }
