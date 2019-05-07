@@ -3,6 +3,7 @@
     "url": "https://github.com/ciscoheat/haxelow",
     "description": "A small, flat JSON database library.",
     "license": "MIT",
+    "classPath": "src",
     "releasenote": "Fixed Node.js regression.",
     "contributors": ["ciscoheat"],
     "version": "0.7.1",
